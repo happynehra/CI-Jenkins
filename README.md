@@ -1,16 +1,15 @@
 # Flow Of Execution 
-1. Login to AWS account. 
-2. Create login key. 
-3. Create Security Groups for Jenkins, Nexus, Sonarquabe. 
-4. Create Ec2 instances with userdata for Jenkins, Sonarqube and Nexus.
-5. Jenkins Post installation. 
-6. Nexus Repository setup. 
-7. Sonarqube post installation. 
-8. Jenkins Steps - Build Job, Setup Slack Notification, Checkstyle code analysis job,
-   Setup Sonar integration, Sonar code analysis job, Arfifact upload job. 
-9. Connect All jobs together with BuildPipeline. 
-10. Set Automatic build trigger. 
-11. Test with intellij. 
+1. Login to AWS account.
+2. Created a login key.
+3. Created Security Groups for Jenkins, Nexus, and Sonarquabe.
+4. Created Ec2 instances with user data for Jenkins, Sonarqube, and Nexus.
+5. Jenkins Post-installation.
+6. Nexus Repository setup.
+7. Sonarqube post installation.
+8.Jenkins Steps - Build Job, Setup Slack Notification, Checkstyle code analysis job, Setup Sonar integration, Sonar code analysis job, Arfifact upload job.
+9.Connected All jobs with BuildPipeline.
+10. Set Automatic build trigger.
+11. Test with IntelliJ.
 
 # Problems fixed in this projects
 1. Developers needs to rework to fix bugs and error. 
