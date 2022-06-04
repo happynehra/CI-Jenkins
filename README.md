@@ -2,7 +2,7 @@
 1. Login to AWS account. 
 2. Create login key. 
 3. Create Security Groups for Jenkins, Nexus, Sonarquabe. 
-4. Create Ec2 instances with userdate for Jenkins, Sonarqube, Nexus.
+4. Create Ec2 instances with userdata for Jenkins, Sonarqube and Nexus.
 5. Jenkins Post installation. 
 6. Nexus Repository setup. 
 7. Sonarqube post installation. 
