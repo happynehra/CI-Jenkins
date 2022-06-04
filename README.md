@@ -6,8 +6,8 @@
 5. Jenkins Post-installation.
 6. Nexus Repository setup.
 7. Sonarqube post installation.
-8.Jenkins Steps - Build Job, Setup Slack Notification, Checkstyle code analysis job, Setup Sonar integration, Sonar code analysis job, Arfifact upload job.
-9.Connected All jobs with BuildPipeline.
+8. Jenkins Steps - Build Job, Setup Slack Notification, Checkstyle code analysis job, Setup Sonar integration, Sonar code analysis job, Arfifact upload job.
+9. Connected All jobs with BuildPipeline.
 10. Set Automatic build trigger.
 11. Test with IntelliJ.
 
